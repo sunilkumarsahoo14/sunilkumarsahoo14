@@ -30,7 +30,7 @@ I'm a passionate software developer interested in web development and UI/UX Desi
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilkumarsahoo14&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunilkumarsahoo14&theme=radical&hide_border=false)](https://streak-stats.demolab.com)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=sunilkumarsahoo14&theme=monokai-metallian&hide_border=true&border_radius=10&locale=hi)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarsahoo14&layout=compact&theme=radical)
 
