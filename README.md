@@ -10,7 +10,7 @@ I'm a passionate software developer interested in web development and UI/UX Desi
 - 📚 I regularly write articles on [www.dowithme.in](https://www.dowithme.in).
 - 💬 Ask me about **Computer Science Study Tips**, **WEB DEV**, **Python**, and **Technology**.
 - 📧 Reach me at **contact.sksahoo@gmail.com**.
-- 😂 Fun fact: *Ek Ice-Cream Khilayega Kya?*
+- 😂 Fun fact: *Agar Main Kar Sakta Hoon, To Tu Kiun Nahi!!!*
 
 ---
 
